@@ -1,0 +1,3 @@
+# Lucas-Kanade-Tracking
+
+<p align="justify"> Classical and modified approaches for Tracking objects in the moving world. It assumes small motion in the moving objects when followed frame by frame. Several modifications are suggested and tried as well. <br> <br> This is a part of the work I have done during my Masters at Carnegie Mellon University. The Problem Statement is from a course -> (16-720B) Computer Vision. Results were achieved under the guidance of Prof. Deva Kannan Ramanan and his Teaching Assistants. <br> <br> The zip folder has the important parts of the assignment, including all the theory and the code. Please do not plagiarize if you're taking the course. </p>
